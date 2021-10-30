@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+##AutoViz
 
-You can use the [editor on GitHub](https://github.com/luiz-star/luiz-star.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Autoviz é uma biblioteca python de código aberto que trabalha principalmente na visualização da relação dos dados, pode encontrar os recursos mais impactantes e traçar a visualização criativa em apenas uma linha de código. Autoviz é incrivelmente rápido e altamente útil.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+https://raw.githubusercontent.com/AutoViML/AutoViz/master/logo.png
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
